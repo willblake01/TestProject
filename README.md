@@ -1,6 +1,6 @@
 # Unreal Engine - MacOS
 
-<img alt='Unreal Engine' src='https://dev.epicgames.com/community/api/documentation/image/bafbc878-8d43-4bdd-9964-85d6079d6811?resizing_type=fill&width=1920&height=335' width="100%" />
+[<img src="unreal-engine.png">](https://link-to-your-URL/)
 
 ## Scene Controls
 
