@@ -11,7 +11,7 @@
 
 ## How to use
 
-**Option 1** - Download optimized .apk file
+**Option 1** - Download optimized `.apk` file
 
 * [Download the .apk file](https://drive.google.com/file/d/1apvPNiWsgNSHmU8qKQoaU_Ncr1QC7OWA/view?usp=drive_link) and skip to the `Run a project on the Quest 3` section below
 
