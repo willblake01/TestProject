@@ -17,8 +17,8 @@
 
 **Option 2** - Package in Unreal Engine
 
-* Fork this repo (For your own version of the project to change how you want)
-* Clone into desired location (To collaborate on or run this version of the project)
+* Fork this repo and clone into desired location (For your own version of the project to change how you want)
+* Skip forking and clone into desired location (To contribute to or run this version of the project)
 * Open `TestProject` in Unreal Engine
 * Run `Platforms > Android > Package Project`
 * When packaging completes successfully you can find the optimized build `.apk` file in the `TestProject/Android_ASTC` directory
