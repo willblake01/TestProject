@@ -6,49 +6,24 @@
 	"Plugins": [
 		{
 			"Name": "OpenXR",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Linux",
-				"LinuxArm64",
-				"Android",
-				"VisionOS"
-			]
+			"Enabled": true
 		},
 		{
 			"Name": "OpenXREyeTracker",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Linux",
-				"LinuxArm64",
-				"Android"
-			]
+			"Enabled": true
 		},
 		{
 			"Name": "OpenXRHandTracking",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Linux",
-				"LinuxArm64",
-				"Android",
-				"VisionOS"
-			]
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
 		"Android",
-		"IOS",
-		"Linux",
-		"Mac",
 		"PS4",
 		"PS5",
-		"Windows",
 		"WindowsNoEditor",
 		"Switch",
 		"XboxOne",
-		"XSX",
-		"VisionOS"
+		"XSX"
 	]
 }
